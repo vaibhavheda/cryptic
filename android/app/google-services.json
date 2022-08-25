@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1020162499350",
+    "firebase_url": "https://cryptic-3d22c-default-rtdb.firebaseio.com",
+    "project_id": "cryptic-3d22c",
+    "storage_bucket": "cryptic-3d22c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020162499350:android:62333b33ae92f5ec9d2637",
+        "android_client_info": {
+          "package_name": "com.example.cryptic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020162499350-pt3bfjbgtoqkd0umuq9fvqffgeh1ehav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG6u4f2an8SqEtJ0TVu3UsgxQ9i1ej9LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020162499350-pt3bfjbgtoqkd0umuq9fvqffgeh1ehav.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020162499350-b3e9k1d1qlghsju8jhq0pmljn13os7mm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cryptic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
